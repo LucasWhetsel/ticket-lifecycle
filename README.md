@@ -41,5 +41,6 @@ For this ticket, we can change the SLA to Sev-A since there is an critical busin
 Agents have to respond to these tickets and update the users depending on the SLA. Once they solve the issue, they can change the status of the ticket to resolved. 
 
 ![image](https://github.com/user-attachments/assets/c66b0038-9532-4813-bc6d-0d5e8ad814f9)
+![image](https://github.com/user-attachments/assets/5b58050d-4be0-4069-a712-ad2a03b6c4ff)
 
 
